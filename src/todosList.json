@@ -1,0 +1,4 @@
+[   {"title":"Сделать зарядку", "id": 1, "default": true},
+    {"title":"Вынести мусор", "id":3, "default": true},
+    {"title":"Поиграть на гитаре", "id":4, "default": true},
+    {"title":"Сходить за продуктами", "id":5, "default": true}]
