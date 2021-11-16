@@ -14,8 +14,6 @@ function AddDefaultItem(props) {
     return max;
   }
 
-  //const numberOfDefaultElem = useRef (props.defTodos[props.defTodos.length-1].id)
-
   // Пользователь может добавить свои дефолтные задачи.
 
   function onAdd(event) {
